@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "table-schema",
+  "section": "표 입력 규칙 검사",
+  "hero": "표 입력 규칙 검사",
+  "description": "열별 JSON 규칙: required, type(text/number/integer/date), min, max, enum. date는 YYYY-MM-DD입니다. 데이터는 고치지 않습니다.",
+  "pageTitle": "표 입력 규칙 검사 | GuideHollow",
+  "url": "https://table-schema.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
